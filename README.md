@@ -15,6 +15,19 @@
 
 > A collection of raw thoughts, discipline, ego, silence, and truth.
 
+<h1 align="center">⚡ MINDSET FEED ⚡</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320"/>
+</p>
+
+<p align="center">
+  <b>ego • silence • truth • revenge • discipline</b>
+</p>
+
+<p align="center">
+  <i>"you don’t read this — you feel it"</i>
+</p>
 ---
 
 ## 🔥 Core Mindset
