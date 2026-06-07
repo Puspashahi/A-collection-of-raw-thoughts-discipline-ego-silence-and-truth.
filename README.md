@@ -102,3 +102,11 @@
 - “even in my hardest times I was alone, so I don’t care who stays or leaves”  
 - “dogs are better than people”  
 - “it’s not my ego, it’s respect”
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <b>⚡ Built in silence. Kept in discipline. ⚡</b>
+</p>
