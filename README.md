@@ -104,9 +104,13 @@
 - “it’s not my ego, it’s respect”
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
-  <b>⚡ Built in silence. Kept in discipline. ⚡</b>
+  <b>⚡ SYSTEM STATUS: SILENT • SHARP • UNTOUCHABLE ⚡</b>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
 </p>
