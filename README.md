@@ -1,5 +1,17 @@
 # A-collection-of-raw-thoughts-discipline-ego-silence-and-truth.
-# ✨ My Mindset Vault ✨
+<h1 align="center">⚡ MINDSET VAULT ⚡</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+</p>
+
+<p align="center">
+  <b>Silence • Ego • Truth • Discipline • Power</b>
+</p>
+
+<p align="center">
+  <i>"Built in silence. Designed for impact."</i>
+</p>
 
 > A collection of raw thoughts, discipline, ego, silence, and truth.
 
